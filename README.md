@@ -16,6 +16,8 @@ You are to create a SPA (Single Page Application) using HTML, CSS and JavaScript
 
 4. Make your design pretty and responsive.
 
-5. When you are done, host your application on netlify - 
+5. When you are done, host or deploy your application 
+
+**Link:** https://star-wars-character-task.vercel.app/
 
 
