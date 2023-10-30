@@ -1,4 +1,3 @@
-# Week-One-Node
 
 ## Problem Description:
 
@@ -17,6 +16,6 @@ You are to create a SPA (Single Page Application) using HTML, CSS and JavaScript
 
 4. Make your design pretty and responsive.
 
-5. When you are done, host your application on netlify (submit link should be added to your turned in field on Teams)
+5. When you are done, host your application on netlify - 
 
 
